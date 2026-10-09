@@ -84,7 +84,7 @@ python -m touchgrass.cli --place "your park here" --minutes 45 \
     --interests "birding, sunset photos"
 ```
 
-Repo: [link to GitHub repo]
+Repo: https://github.com/986036734/touch-grass
 I validated the plan logic against real data tonight; the agent geocoded,
 checked sunset and weather, and reasoned over them rather than filling a
 template.
